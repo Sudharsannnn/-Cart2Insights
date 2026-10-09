@@ -1,0 +1,18 @@
+# Datasets
+data/
+
+# Credentials and secrets
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
