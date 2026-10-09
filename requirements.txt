@@ -1,1 +1,5 @@
-import mysql.connector
+mysql-connector-python
+streamlit
+pandas
+numpy
+plotly
